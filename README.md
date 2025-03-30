@@ -4,7 +4,7 @@ La api que he creado es de coches, se puede añadir editar obtener y eliminar co
 
 Cada coche tiene Marca, Modelo y año, además se le añade un Id por el que se le identificara.
 
-A la api te conectas a traves del puerto 8080.
+A la api se puede conectar a traves del puerto 8080.
 
 ### Endpoints
 
